@@ -3,5 +3,8 @@
   "license": "mit",
   "dependencies": {
     "nuxt-cluster": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=22.23.4 <23"
   }
 }
